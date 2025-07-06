@@ -11,7 +11,13 @@ This project simulates a pricing prototype for the airline industry. It uses a R
 
 ## Demo Video
 [Watch the demo video]
-https://github.com/user-attachments/assets/4b0a9608-0b42-4e43-9e81-52002a3555ed
+<video src="https://github.com/user-attachments/assets/4b0a9608-0b42-4e43-9e81-52002a3555ed"
+       width="800" 
+       controls 
+       autoplay 
+       loop 
+       muted>
+</video>
 
 ## 🧠 Features
 - Predict fare for any airline-route combination
