@@ -10,7 +10,6 @@ This project simulates a pricing prototype for the airline industry. It uses a R
 - Streamlit (for UI)
 
 ## Demo Video
-[Watch the demo video]
 <video src="https://github.com/user-attachments/assets/4b0a9608-0b42-4e43-9e81-52002a3555ed"
        width="800" 
        controls 
